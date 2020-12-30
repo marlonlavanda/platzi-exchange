@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # platzi-exchange
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# platzi-exchange
+>>>>>>> ea70add0458890584b3b750438b616188195ff6c
